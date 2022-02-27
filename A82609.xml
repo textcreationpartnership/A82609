@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration concerning the present treaty of peace, between His Majesty and both Houses of Parliament. Containing the severall reasons, why the wel-affected subjects of this kingdome ought to imbrace either peace, or warre, His Majesty assenting, or dissenting the present propositions, propounded by the high court of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82609</idno>
+            <idno type="STC">Wing E1331</idno>
+            <idno type="STC">Thomason E95_10</idno>
+            <idno type="STC">ESTC R11118</idno>
+            <idno type="EEBO-CITATION">99858936</idno>
+            <idno type="PROQUEST">99858936</idno>
+            <idno type="VID">155803</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82609)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155803)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 17:E95[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration concerning the present treaty of peace, between His Majesty and both Houses of Parliament. Containing the severall reasons, why the wel-affected subjects of this kingdome ought to imbrace either peace, or warre, His Majesty assenting, or dissenting the present propositions, propounded by the high court of Parliament.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.H. and Hen. Hutton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill 7".</note>
+                  <note>A Puritan tract in justification of a belligerent Parliamentary policy.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155803:1"/>
+            <pb facs="tcp:155803:1" rendition="simple:additions"/>
+            <p>A DECLARATION CONCERNING The preſent Treaty of Peace, between his Majeſty and both Houſes of PARLIAMENT.</p>
+            <p>
+               <hi>Containing the ſeverall Reaſons, why the wel-af<g ref="char:EOLhyphen"/>fected Subjects of this Kingdome ought to imbrace either</hi> Peace, or Warre, <hi>His Majeſty aſſenting, or diſſenting the preſent Propoſitions, propounded by the High Court OF PARLJAMENT.</hi>
+            </p>
+            <p>
+               <hi>LONDON</hi> Printed for <hi>J. H.</hi> and <hi>Hen. Hutton,</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:155803:2"/>
+            <pb facs="tcp:155803:2"/>
+            <head>A Declaration concerning the preſene Treaty of Peace, betweene His Majeſty, and both Houſes of Par<g ref="char:EOLhyphen"/>liament.</head>
+            <p>THe Lords and Commons aſſembled in Parliament, (having taken into ſerious conſideration, the mani<g ref="char:EOLhyphen"/>fold diſtempers of this Kingdome, occaſioned by a malignant party, too prevalent with his Majeſty, by which meanes this Kingdome is at this time ingaged in a civill, and deſtructive war, through many difficulties have endeavou<g ref="char:EOLhyphen"/>red all poſſible meanes to give a period to theſe calamities which lye, and dayly encreaſe upon this Nation, eſpecially to cloſe the diviſions that have happened between his Ma<g ref="char:EOLhyphen"/>jeſty and both Houſes of Parliament, for which end they have concluded of a Treaty, and ſent ſuch Propoſitions to his Majeſty, as are both full of honour and ſecurity to his Majeſty, and his Kingdomes of England, Scotland, and Ireland.</p>
+            <pb facs="tcp:155803:3"/>
+            <p>Yet notwithſtanding all the endeavours of that high <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> honourable Councell, ſo mallicious and envious are many men in this Kingdome, both about his Majeſty, and in this Citie, that they labour rather to increaſe theſe diviſions, then to cure thoſe deſperate wounds which their former ma<g ref="char:EOLhyphen"/>lignancy hath made in this diſtracted and diſtepered King<g ref="char:EOLhyphen"/>dome, they ceaſe not, but adde more fuell to that fire which flames to high already, for by their ſcandalous reports they dayly ſtigmatize and brand that honourable Aſſembly with falſe and libellous reproaches, terming them factious, ſe<g ref="char:EOLhyphen"/>ditious, peace-breakers, with many other contumelious baſe ſlanders, when it is apparent, that the ſaid reports are ray<g ref="char:EOLhyphen"/>ſed by perſons of mean condition, and evill affected to the Religion and peace of the Kingdome, for all wiſe men know and all honeſt men muſt of necſſity confeſſe, that the high Court of Parliament hath, and doth lahour earneſtly to ſettle a religious Peace in theſe his Majeſties Realmes, and Dominions.</p>
+            <p>By theſe deluſive practizes they make the world believe that they are the onely deſirers of peace,, when indeed they rather deſire a continuance of the Warres, they having no other meanes to defend and maintain that cauſe, which they favour, (namely) Popery, and Prerogative.</p>
+            <p>Therefore that their practizes may be made apparent, &amp; that the world may diſcern whether they deſire a true and religious peace, or whether for ſome ſiniſter end to them<g ref="char:EOLhyphen"/>ſelves, they counterfit, and under that notion, gain power to perfect their deſtructive deſignes, here is ſet down the ſeverall reaſons why we ought to deſire peace, or embrace Warre, contained in this following diſcourſe.</p>
+            <pb facs="tcp:155803:3"/>
+            <list>
+               <head>The Reaſons to induce us to deſire Peace.</head>
+               <item>1. In reſpect of God.</item>
+               <item>2. In reſpect of our ſelves,</item>
+               <item>3. in reſpect of Ireland,</item>
+            </list>
+            <p n="1">1. In reſpect of God, that the Lord of Hoſtes may be Slorified thereby for it muſt be a religious peace that muſt propagate the Goſpell, and cauſe Religion to flouriſh and increaſe in this Kingdome, and not a civill and deſtructive Warre.</p>
+            <p>That this is apparent, we may behold a pleading and blee<g ref="char:EOLhyphen"/>ding preſident in Ireland, a Kingdome that not many yeares agoe was inhabited by creatures that ſcarce knew that there was a God, having no other inſtructers, then naturall inſtinct, yet that place being ſetled in Peace, it was become a fruit<g ref="char:EOLhyphen"/>full plantation, being inhabited by proteſtant proffeſſors, to the Glory of God, and admiration of Forraign Nations, but on the contrary, looke upon it now, involved in bloud, overrun with that rebellious Rout of blood-thirſty Papiſts, who have the ſame Deſignes on foot here in this Kingdome to further our deſtruction, and roote out and utterly extir<g ref="char:EOLhyphen"/>pate the Proteſtant profeſſion out of theſe his Majeſties Dominions, there you may behold how ſome few Months War hath ruined and deſtroyed the fruits of above twenty yeares Peace, ſo that now it is become an habitation for Wolves and Tigers, and the Temples of God, defiled with Idolatrous Images.</p>
+            <p>Therefore this may ſerve as one eſpeciall reaſon why this Kingdome ought to ſeeke peace, it being for the glory of God, and propagation of the Goſpell; therefore I wiſh all men would take up the ſaying of Chriſt, <hi>Mat.</hi> 5.9. Bleſ<g ref="char:EOLhyphen"/>ſed are the Peacemakers, for they ſhall be called the Sonnes of God.</p>
+            <pb facs="tcp:155803:4"/>
+            <p n="2">2 In reſpect of our ſelves. That every man whoſe per<g ref="char:EOLhyphen"/>ſonall ſubſiſtence depends on his artificiall practice, hath cauſe to embrace peace, I need not declare: for the remem<g ref="char:EOLhyphen"/>brance of what they enjoyed by peace formerly, and the ſenſe of what they ſuffer by this preſent war is an effectuall motive to induce them to deſire the ſame.</p>
+            <p n="3">3 In reſpect of <hi>Ireland,</hi> becauſe without a ſpeedy peace that Kingdome is irrecoverably loſt, and made a prey to thoſe bloudy and inſulting tyrants, and being loſt, then we lie open to the bloudy practices of the ſame power which hath ſo great a party in that Kingdome, then we have ſmall hope to reſiſt, being already divided amongſt our ſelves.</p>
+            <p>Theſe conſiderations (doubtleſſe) have been the motives of this preſent Treaty, there being no deſire, I preſume, in any Member of that honourable Aſſembly inclining to war, if upon honourable termes our Religion, lives, lawes and liberties may be ſecured.</p>
+            <p>But on the contrary part, if the Propoſitions propoun<g ref="char:EOLhyphen"/>ded by the Parliament ſhould not take effect, then the Com<g ref="char:EOLhyphen"/>mons ought rather to embrace warre, and that for theſe reaſons.</p>
+            <list>
+               <item>1 In reſpect of religion, that being Gods cauſe.</item>
+               <item>2 In reſpect of the Lawes, that being the Kings cauſe.</item>
+               <item>3 In reſpect of the Parliament, that being the ſubjects cauſe.</item>
+               <item>4 In reſpect of the unjuſtneſſe of our enemies cauſe, be<g ref="char:EOLhyphen"/>ing an unbounded Prerogative, and an Antichriſtian religi<g ref="char:EOLhyphen"/>on (the onely aime of the Papiſts the chief incendiaries in theſe unnaturall wars) grounded upon flattery and ceremo<g ref="char:EOLhyphen"/>ny, contrary to Gods Word, and the lawes of the King<g ref="char:EOLhyphen"/>dome.</item>
+            </list>
+            <p n="1">1 In reſpect of religion. That we had many innovati<g ref="char:EOLhyphen"/>ons
+<pb facs="tcp:155803:4"/>crept into the Church, I think the greateſt Hierarchiſt will not deny, and that the beginning to purge the Church of thoſe innovations, was the firſt ſtep to this diviſion, can<g ref="char:EOLhyphen"/>not be denied. Now that a Nation ought to take up armes to oppoſe thoſe that ſhall not onely bring in ſuch innovati<g ref="char:EOLhyphen"/>ons and idolatrous worſhip into the Church, but alſo raiſe forces to abet and maintain the ſame, is apparent: for that land or people that ſhall ſuffer idolatry to remain in it, is threatned to be deſtroyed, <hi>Jer.</hi> 44.21. and how ſhould a na<g ref="char:EOLhyphen"/>tion have power to purge their land of idolaters and idola<g ref="char:EOLhyphen"/>try, but by riſing with one heart and one mind, like the Tribes of Iſrael againſt the Benjamites, to puniſh thoſe that have committed iniquity in our Iſrael.</p>
+            <p n="2">2 In reſpect of the Lawes, that being the Kings cauſe: That the Lawes are the authority of the King (I preſume none will queſtion) and if ſo, then conſequently thoſe men that ſhall labour to deſtroy the power and authority of the Law, do as much as in them lies to deſtroy the authority of the King, ſince the Kings Authority is derived from the Law, and not the Law from the King alone. Now that they endeavour to deſtroy the Law of this Land is appa<g ref="char:EOLhyphen"/>rent, in their practices to diſſolve this Parliament, contrary to all Law, when the King himſelf hath confirmed this Parlitment by a known law: in doing whereof they en<g ref="char:EOLhyphen"/>deavour to deſtroy his Majeſties power, and make his word of no effect. Therefore for this cauſe all thoſe that are true ſubjects to their King, are bound in this point to take up arms for the defence of the Lawes, in which conſiſts His Majeſties honour and Regall Authority.</p>
+            <p n="3">3 In reſpect of the Parliament, that being the ſubjects cauſe. That in the continuance of Parliaments conſiſts the benefit of the ſubject, is apparent by the many preſſures
+<pb facs="tcp:155803:5"/>that were throwne upon them in the intervals of Parlia<g ref="char:EOLhyphen"/>ments, when the Lawes were abuſed, and the ſubjects op<g ref="char:EOLhyphen"/>preſſed by thoſe perſons which ſhould have preſerved them from oppreſſion, is manifeſted by theſe late yeers experi<g ref="char:EOLhyphen"/>ence, and that by the wiſdome of this Palliament thoſe things have been redreſſed for the preſent, and thoſe oppreſ<g ref="char:EOLhyphen"/>ſors for ever diſabled of the like practices, except they can compaſſe their ends by this war, therefore we are bound in reſpect of our own ſecurity to ioyn with the Parliament in the defence of this cauſe, which tends only to the future ſe<g ref="char:EOLhyphen"/>curity and liberty of the ſubiect.</p>
+            <p>Laſtly, in reſpect of our enemies cauſe, an unbounded Prerogative, and an idolatrous Religion, grounded upon flattery and ceremony. That Prerogative is preiudiciall to the ſubiect, let <hi>France</hi> be your example, and that Ceremony contrary to Law and Religion, is a rag of <hi>Rome,</hi> look into <hi>Luthers</hi> Works, where he ſhewes the reaſons of his falling off from the See of <hi>Rome,</hi> and then no doubt the greateſt Royalliſt will cry down Prerogative, and the moderateſt Conformiſt will ſhun their Ceremonies, and prove a Refor<g ref="char:EOLhyphen"/>miſt, and ioyne with the high Court of Parliament in the maintenance of a cauſe ſo acceptable to God, ſo ſerviceable to the King, and ſo beneficiiall to the Commonwealth.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
